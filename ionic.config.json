@@ -1,0 +1,7 @@
+{
+  "name": "Woo_ionic_angular",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
